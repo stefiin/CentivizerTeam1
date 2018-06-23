@@ -1,0 +1,306 @@
+Exporter version: 5.6.3, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  /Users/SinaRex/OneDrive - University of Toronto/work-study/centivizer_car_game/assets/test/
+	Python World class constructor completed
+	processing begun of mesh:  3DSMesh_34_8
+		processing begun of Standard material:  windows
+		num positions      :  14
+		num normals        :  14
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  30
+	processing begun of mesh:  3DSMesh_0_0
+		processing begun of Standard material:  black
+		num positions      :  256
+		num normals        :  256
+		num uvs            :  512
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  840
+	processing begun of mesh:  3DSMesh_22_5
+		processing begun of Standard material:  chassisblack
+		num positions      :  56
+		num normals        :  56
+		num uvs            :  112
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  180
+	processing begun of mesh:  3DSMesh_19_4
+		processing begun of Standard material:  parts
+			Diffuse texture found "Kd.004"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  24
+		num normals        :  24
+		num uvs            :  48
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  102
+	processing begun of mesh:  3DSMesh_16_3
+		processing begun of Standard material:  tires
+			Diffuse texture found "Kd.005"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  720
+		num normals        :  720
+		num uvs            :  1440
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3960
+	processing begun of mesh:  3DSMesh_10_0
+		registered as also a user of material:  windows
+		num positions      :  100
+		num normals        :  100
+		num uvs            :  200
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  288
+	processing begun of mesh:  3DSMesh_33_8
+		registered as also a user of material:  parts
+		num positions      :  13
+		num normals        :  13
+		num uvs            :  26
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  3DSMesh_14_2
+		registered as also a user of material:  tires
+		num positions      :  360
+		num normals        :  360
+		num uvs            :  720
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1980
+	processing begun of mesh:  3DSMesh_4_0
+		processing begun of Standard material:  chrome
+			Diffuse texture found "Kd.001"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2519
+		num normals        :  2519
+		num uvs            :  5038
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  10998
+	processing begun of mesh:  3DSMesh_2_0
+		registered as also a user of material:  chassisblack
+		num positions      :  1389
+		num normals        :  1389
+		num uvs            :  2778
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6306
+	processing begun of mesh:  3DSMesh_24_6
+		processing begun of Standard material:  interior
+			Bump texture found "Bump.001"
+				Image texture found, type:  bumpTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.002"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  620
+		num normals        :  620
+		num uvs            :  1240
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3609
+	processing begun of mesh:  3DSMesh_17_4
+		processing begun of Standard material:  body
+			Diffuse texture found "Kd"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  346
+		num normals        :  346
+		num uvs            :  692
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  876
+	processing begun of mesh:  3DSMesh_7_0
+		registered as also a user of material:  interior
+		num positions      :  2646
+		num normals        :  2646
+		num uvs            :  5292
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  10950
+	processing begun of mesh:  3DSMesh_31_8
+		registered as also a user of material:  chrome
+		num positions      :  317
+		num normals        :  317
+		num uvs            :  634
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1461
+	processing begun of mesh:  3DSMesh_11_1
+		registered as also a user of material:  parts
+		num positions      :  982
+		num normals        :  982
+		num uvs            :  1964
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4809
+	processing begun of mesh:  3DSMesh_27_7
+		registered as also a user of material:  interior
+		num positions      :  146
+		num normals        :  146
+		num uvs            :  292
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  747
+	processing begun of mesh:  3DSMesh_1_0
+		registered as also a user of material:  body
+		num positions      :  1988
+		num normals        :  1988
+		num uvs            :  3976
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7836
+	processing begun of mesh:  3DSMesh_9_0
+		registered as also a user of material:  parts
+		num positions      :  1222
+		num normals        :  1222
+		num uvs            :  2444
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5916
+	processing begun of mesh:  3DSMesh_3_0
+		processing begun of Standard material:  chassisprt
+			Bump texture found "Bump"
+				Image texture found, type:  bumpTexture, mapped using: "UVMap"
+		num positions      :  754
+		num normals        :  754
+		num uvs            :  1508
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3105
+	processing begun of mesh:  3DSMesh_6_0
+		processing begun of Standard material:  exhaust
+		num positions      :  1790
+		num normals        :  1790
+		num uvs            :  3580
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  9315
+	processing begun of mesh:  3DSMesh_12_1
+		registered as also a user of material:  tires
+		num positions      :  360
+		num normals        :  360
+		num uvs            :  720
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1980
+	processing begun of mesh:  3DSMesh_25_7
+		registered as also a user of material:  body
+		num positions      :  131
+		num normals        :  131
+		num uvs            :  262
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  3DSMesh_5_0
+		processing begun of Standard material:  engine
+		num positions      :  606
+		num normals        :  606
+		num uvs            :  1212
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2967
+	processing begun of mesh:  3DSMesh_15_3
+		registered as also a user of material:  parts
+		num positions      :  1588
+		num normals        :  1588
+		num uvs            :  3176
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7470
+	processing begun of mesh:  3DSMesh_32_8
+		registered as also a user of material:  interior
+		num positions      :  146
+		num normals        :  146
+		num uvs            :  292
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  747
+	processing begun of mesh:  3DSMesh_30_8
+		registered as also a user of material:  body
+		num positions      :  131
+		num normals        :  131
+		num uvs            :  262
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  3DSMesh_8_0
+		processing begun of Standard material:  lights
+			Diffuse texture found "Kd.003"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  142
+		num normals        :  142
+		num uvs            :  284
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  432
+	processing begun of mesh:  3DSMesh_29_7
+		registered as also a user of material:  windows
+		num positions      :  14
+		num normals        :  14
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  30
+	processing begun of mesh:  3DSMesh_18_4
+		registered as also a user of material:  chassisblack
+		num positions      :  72
+		num normals        :  72
+		num uvs            :  144
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  384
+	processing begun of mesh:  3DSMesh_26_7
+		registered as also a user of material:  chrome
+		num positions      :  317
+		num normals        :  317
+		num uvs            :  634
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1461
+	processing begun of mesh:  3DSMesh_28_7
+		registered as also a user of material:  parts
+		num positions      :  13
+		num normals        :  13
+		num uvs            :  26
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  36
+	processing begun of mesh:  3DSMesh_21_5
+		registered as also a user of material:  body
+		num positions      :  335
+		num normals        :  335
+		num uvs            :  670
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1512
+	processing begun of mesh:  3DSMesh_20_5
+		registered as also a user of material:  black
+		num positions      :  14
+		num normals        :  14
+		num uvs            :  28
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  30
+	processing begun of mesh:  3DSMesh_13_2
+		registered as also a user of material:  parts
+		num positions      :  982
+		num normals        :  982
+		num uvs            :  1964
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4809
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 4.2211 secs
